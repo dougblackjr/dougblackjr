@@ -1,6 +1,6 @@
 # Hi, I'm Doug 👋
 
-##My name is Doug! Here's what I do:
+## My name is Doug! Here's what I do:
 
 - 🔭 I lead <a href="https://triplenerdscore.net" title="tripleNERDscore" target="_blank"><span style="color:#4496bc">triple</span><span style="color:#e35256">NERD</span><span style="color:#4496bc">score</span></a>
 
